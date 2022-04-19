@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm a CS student based in Northern Ireland, especially focused on:
-- **Cloud-Native:** Helm, Kubernetes, Docker/Podman and writing custom K8s Operators using [client-go](https://github.com/kubernetes/client-go)
-- **DevOps Automation:** GitOps, Jenkins/Spinnaker, and writing custom automation tools
-- **Backend Web Development:** utilising Ruby on Rails, Django, Go's Echo, and currently learning Rust's Actix framework
-- **Security:** writing security-oriented tools
+I'm a CS student based in Northern Ireland - currently learning Rust, Actix-Web and WASM  
 
 ### Open-Source Projects
 #### IPv4 and IPv6 Tools

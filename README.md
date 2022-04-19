@@ -1,6 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm a CS student based in Northern Ireland</h3>
-<br/>
+# Hi there 👋
 
 - 🔭 I’m interested in the **Rust** ecosystem
 

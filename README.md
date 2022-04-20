@@ -6,4 +6,4 @@
 
 - 🌱 I’m currently learning **WASM and Actix-Web**
 
-- 📫 Contact me at **1markruddy@gmail.com**
+- 📫 Contact me at [t.me/chr0x6d](https://t.me/chr0x6d) or **1markruddy@gmail.com**

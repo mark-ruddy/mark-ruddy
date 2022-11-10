@@ -1,3 +1,3 @@
 ## Hi
 
-- 📫 Contact me at [t.me/markruddy](https://t.me/chr0x6d) or 1markruddy@gmail.com
+- 📫 Contact me at <https://t.me/markruddy> or 1markruddy@gmail.com

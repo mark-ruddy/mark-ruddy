@@ -1,1 +1,1 @@
-- 📫 Contact me at <https://t.me/markruddy> or 1markruddy@gmail.com
+- 📫 Contact me at <https://t.me/markruddy> or markruddysec@proton.me

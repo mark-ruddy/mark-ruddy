@@ -1,2 +1,3 @@
-- 📖 InfoSec blog: <https://markruddysec.github.io>
+- 🔬 Primarily interested in Security, Containers and WebDev
+- 📖 Security blog: <https://mark-ruddy.github.io>
 - 📫 Contact me at <https://t.me/markruddy> or markruddysec@proton.me

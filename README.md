@@ -1,2 +1,2 @@
-- 📖 InfoSec blog: <markruddysec.github.io>
+- 📖 InfoSec blog: <https://markruddysec.github.io>
 - 📫 Contact me at <https://t.me/markruddy> or markruddysec@proton.me

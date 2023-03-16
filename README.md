@@ -1,2 +1,2 @@
-- :microscope: Primarily interested in security and devops
+- 📖 InfoSec blog: <markruddysec.github.io>
 - 📫 Contact me at <https://t.me/markruddy> or markruddysec@proton.me

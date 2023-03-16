@@ -1,1 +1,2 @@
+- :microscope: Primarily interested in security and devops
 - 📫 Contact me at <https://t.me/markruddy> or markruddysec@proton.me

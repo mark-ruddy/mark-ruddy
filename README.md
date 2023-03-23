@@ -1,3 +1,3 @@
 - 🔬 Primarily interested in Security, Containers and WebDev
 - 📖 Security blog: <https://mark-ruddy.github.io>
-- 📫 Contact me on discord `markr_sec#2547` or markruddysec@proton.me
+- 📫 Contact me on discord `markr#2547` or markruddysec@proton.me

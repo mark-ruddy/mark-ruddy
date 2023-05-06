@@ -1,4 +1,4 @@
-- 🔬 Mainly do Security, Containers and WebDev
+- 🔬 Mainly interested in Security, Containers and WebDev
 - 📖 Security blog(Nothing there yet): <https://mark-ruddy.github.io>
 - 📫 Contact me on discord `markr#2547` or email `markruddysec@proton.me`
 - 🔑 PGP public key: https://keys.openpgp.org/vks/v1/by-fingerprint/4D6732E8BD7949DE8575D90FFE484E9D618B2F44

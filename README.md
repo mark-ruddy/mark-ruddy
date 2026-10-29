@@ -1,2 +1,1 @@
-- 📖 Dev blog: <https://mark-ruddy.github.io/markruddydev/>
-- 📫 Contact me at `markruddydev@protonmail.com`
+- 📖 <https://mark-ruddy.github.io/markruddydev/>
